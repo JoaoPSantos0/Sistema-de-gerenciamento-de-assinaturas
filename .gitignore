@@ -1,0 +1,11 @@
+# Ignorar arquivos de banco de dados
+database.db
+
+# Ignorar a pasta do ambiente virtual
+venv/
+
+# Ignorar arquivos compilados do Python
+__pycache__/
+
+# Ignorar configurações do VS Code (se estiver usando)
+.vscode/
